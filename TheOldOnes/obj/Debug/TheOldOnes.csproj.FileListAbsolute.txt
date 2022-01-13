@@ -1,0 +1,8 @@
+C:\Users\GallantHeroDrew\OneDrive\Desktop\IndependentC#\TheOldOnes\TheOldOnes\bin\Debug\TheOldOnes.exe.config
+C:\Users\GallantHeroDrew\OneDrive\Desktop\IndependentC#\TheOldOnes\TheOldOnes\bin\Debug\TheOldOnes.exe
+C:\Users\GallantHeroDrew\OneDrive\Desktop\IndependentC#\TheOldOnes\TheOldOnes\bin\Debug\TheOldOnes.pdb
+C:\Users\GallantHeroDrew\OneDrive\Desktop\IndependentC#\TheOldOnes\TheOldOnes\obj\Debug\TheOldOnes.csproj.AssemblyReference.cache
+C:\Users\GallantHeroDrew\OneDrive\Desktop\IndependentC#\TheOldOnes\TheOldOnes\obj\Debug\TheOldOnes.csproj.SuggestedBindingRedirects.cache
+C:\Users\GallantHeroDrew\OneDrive\Desktop\IndependentC#\TheOldOnes\TheOldOnes\obj\Debug\TheOldOnes.csproj.CoreCompileInputs.cache
+C:\Users\GallantHeroDrew\OneDrive\Desktop\IndependentC#\TheOldOnes\TheOldOnes\obj\Debug\TheOldOnes.exe
+C:\Users\GallantHeroDrew\OneDrive\Desktop\IndependentC#\TheOldOnes\TheOldOnes\obj\Debug\TheOldOnes.pdb
